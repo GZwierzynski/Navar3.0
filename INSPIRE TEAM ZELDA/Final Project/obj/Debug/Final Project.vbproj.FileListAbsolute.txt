@@ -80,3 +80,6 @@ C:\Users\jg131282\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj
 C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe.config
 C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.xml
 C:\Users\rc131187\Documents\GitHub\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.pdb
+C:\Users\brosiusj\Desktop\Visual Basic\Navar3.0\INSPIRE TEAM ZELDA\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\brosiusj\Desktop\Visual Basic\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.xml
+C:\Users\brosiusj\Desktop\Visual Basic\Navar3.0\INSPIRE TEAM ZELDA\Final Project\obj\Debug\Final Project.pdb
